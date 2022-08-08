@@ -17,5 +17,13 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
   - Old Fabs: Is a folder that has the old revisions of the Tour Prefabs such as video interactor. This folder is still here because this is the orgin for the newer versions of theses prefabs and deleting one of them could make some prefabs not work properly
   
   - Tour Prefabs: This folder contains prefabs that are used for a specific purpose, such as video interactors or text interactors. Theses can be draged and droped into the scence and should work without to much set up.
-    -
+    -Interactable Empty is just a empty interactable area that makes areas or images    in the case of a photosphere interactable
+    -Title Block is UI(User Interface) that can act as a menu or title screen
+    -Video Interactor is interactable area that prompts the user to learn more by playing a video that is in the url field of the video play script
+   
+# My Scripts
+    A folder that contains scripts for the interactable elements used for a specific purpose.
+    
+#PhotoSphere
+
 
