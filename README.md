@@ -24,6 +24,5 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
 # My Scripts
     A folder that contains scripts for the interactable elements used for a specific purpose.
     
-#PhotoSphere
-
+# PhotoSphere 
 
