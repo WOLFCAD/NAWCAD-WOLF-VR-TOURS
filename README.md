@@ -14,8 +14,8 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
     -The GazeInteractable prefab: This will be attached to a gameobject and this allows ojects to be interacted with
     -The GazeInteractor prefab: This will be attached to the player and allow them to interact with any object that has the GazeInteractable prefab attached.
   
-  -Old Fabs: Is a folder that has the old revisions of the Tour Prefabs such as video interactor. This folder is still here because this is the orgin for the newer versions of theses prefabs and deleting one of them could make some prefabs not work properly
+  - Old Fabs: Is a folder that has the old revisions of the Tour Prefabs such as video interactor. This folder is still here because this is the orgin for the newer versions of theses prefabs and deleting one of them could make some prefabs not work properly
   
-  -Tour Prefabs: This folder contains prefabs that are used for a specific purpose, such as video interactors or text interactors. Theses can be draged and droped into the scence and should work without to much set up.
+  - Tour Prefabs: This folder contains prefabs that are used for a specific purpose, such as video interactors or text interactors. Theses can be draged and droped into the scence and should work without to much set up.
     -
 
