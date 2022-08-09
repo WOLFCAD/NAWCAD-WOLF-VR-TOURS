@@ -1,6 +1,6 @@
 # NAWCAD-WOLF-VR-TOURS
 
-This is a demo that ibncludes assets scripts, photosheres, etc that can be used to create a Google Cardboard based tour more smoothly.
+This is a demo that includes assets scripts, photosheres, etc that can be used to create a Google Cardboard based tour more smoothly.
 
 
 # Gaze Interactor Prefabs
@@ -32,3 +32,19 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
       - Old folder is the original photosphere prefabs that are needed for the PSV4 prefab to work
       
 # Player Controls
+  A folder that cotains the player control scripts, input system plugins, and player and camera prefabs.
+  
+  The Starter Assets folder is the main folder that has all the player assets, settings, and prefabs that are used in this demo and that are needed. In this folder there is seperate documentation pdfs that explain the all the assets in the folder. The pdf is called StarterAssets_Documentation.
+  
+  Assets used in the project and are needed for player input are
+    - PlayerCapsule prefab
+    - PlayerFollowCamera prefab
+    - UI_Canvas_StarterAssetsInputs_Joysticks prefab
+    - UI_EventSystem prefab 
+    - MainCamera prefab x2
+    
+# Streaming Assets
+  The Video Render is placed in the second psv4 prefab under its Photo Gimbal componet. This used when video needs to be rendered instead of a photosphere. The video you want to play can then be attached to the video render. You cannot attavh video directly to the psv4 asset. 
+  
+# Teleport System
+  - 
