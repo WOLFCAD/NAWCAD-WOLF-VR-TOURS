@@ -45,7 +45,7 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
     - MainCamera prefab x2
     
 # Streaming Assets
-  The Video Render is placed in the second psv4 prefab under its Photo Gimbal componet. This used when video needs to be rendered instead of a photosphere. The video you want to play can then be attached to the video render. You cannot attavh video directly to the psv4 asset. 
+  The Video Render is placed in the second psv4 prefab under its Photo Gimbal componet. This used when video needs to be rendered instead of a photosphere. The video you want to play can then be attached to the video render. You cannot attach video directly to the psv4 asset. 
   
 # Teleport System
- 
+  The teleport pad can teleport players in two ways. A coordinate transfer where the player transports to the coordinates specified in the script or a teleportation that transports them to a different scene.
