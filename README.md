@@ -37,6 +37,7 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
   The Starter Assets folder is the main folder that has all the player assets, settings, and prefabs that are used in this demo and that are needed. In this folder there is seperate documentation pdfs that explain the all the assets in the folder. The pdf is called StarterAssets_Documentation.
   
   Assets used in the project and are needed for player input are
+  
     - PlayerCapsule prefab
     - PlayerFollowCamera prefab
     - UI_Canvas_StarterAssetsInputs_Joysticks prefab
@@ -47,4 +48,4 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
   The Video Render is placed in the second psv4 prefab under its Photo Gimbal componet. This used when video needs to be rendered instead of a photosphere. The video you want to play can then be attached to the video render. You cannot attavh video directly to the psv4 asset. 
   
 # Teleport System
-  - 
+ 
