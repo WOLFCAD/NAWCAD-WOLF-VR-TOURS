@@ -49,3 +49,7 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
   
 # Teleport System
   The teleport pad can teleport players in two ways. A coordinate transfer where the player transports to the coordinates specified in the script or a teleportation that transports them to a different scene.
+  
+  
+# Sources and Future Considerations
+  # Video Streaming
