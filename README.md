@@ -56,6 +56,8 @@ under Photo Gimbal find the Photo Creation Sphere Script and add your image to t
     - MainCamera prefab x2
     
 # Streaming Assets
+The Video Sphere is the main streaming asset used in playing video throughout the tour. To add a video to this prefab
+
   The Video Render is placed in the second psv4 prefab under its Photo Gimbal componet. This used when video needs to be rendered instead of a photosphere. The video you want to play can then be attached to the video render. You cannot attach video directly to the psv4 asset. 
   
 # Teleport System
@@ -88,4 +90,6 @@ under Photo Gimbal find the Photo Creation Sphere Script and add your image to t
     - Render Streaming is a possiblity where we might not even need to stream video. Render Streaing allows a unity application to host its contents using a local web server and other applications can access that content by connecting the web server. This allows all the video data which is a least 50 Gb to be stored on one computer and can just be streamed to the other devices. You can learn more by visting https://github.com/Unity-Technologies/UnityRenderStreaming.
       - The only problem I found while using this is it works like a live stream. Where the app on the main machine were the web server is, can only stream what is happening on the main machine to the other connected users. Not where the other users can access the app itself.
   ## Hosting
-      
+     There are two main hosting options that I have discovered which are free.
+      - Simmer.io: Simmer.io is a free web gl game hosting site which allows users to drap and drop there web gl projects and host them on there site https://simmer.io/
+      -
