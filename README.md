@@ -26,11 +26,21 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
     A folder that contains scripts for the interactable elements used for a specific purpose.
     
 # PhotoSphere 
-   A folder that contains assets and prefabs for creating  and forming photospheres
-     - PhotoSpheres folder contains photos for the reptile lab apart of this demo.
-     - Prefabs
-       - The only prefab that is import in this folder is the psv4 prefab which is the photosphere prefab that will accept an image and then rap it around sphere evenly
-       - Old folder is the original photosphere prefabs that are needed for the PSV4 prefab to work
+  A folder that contains assets and prefabs for creating  and forming photospheres
+  
+ - PhotoSpheres folder contains photos for the reptile lab apart of this demo.
+ - Prefabs
+      - The only prefab that is import in this folder is the psv4 prefab which is the photosphere prefab that will accept an image and then rap it around sphere evenly
+        - You can add a photo to the psv4 prefab by locating the Photo Gimbal\
+
+![image](https://user-images.githubusercontent.com/110831080/183960097-35816ce2-b5f6-458a-bd2a-e54bec026731.png)
+
+under Photo Gimbal find the Photo Creation Sphere Script and add your image to the photo field
+
+![image](https://user-images.githubusercontent.com/110831080/183960738-2f8fc9b5-62da-406c-915f-496fed1d6038.png)
+
+
+      - Old folder is the original photosphere prefabs that are needed for the PSV4 prefab to work
       
 # Player Controls
   A folder that cotains the player control scripts, input system plugins, and player and camera prefabs.
