@@ -49,6 +49,7 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
   The Video Render is placed in the second psv4 prefab under its Photo Gimbal componet. This used when video needs to be rendered instead of a photosphere. The video you want to play can then be attached to the video render. You cannot attach video directly to the psv4 asset. 
   
 # Teleport System
+  The Telepad is the main asset used for teleporting and can be found in the teleport system folder under Tour Prefabs.
   The teleport pad can teleport players in two ways. A coordinate transfer where the player transports to the coordinates specified in the script
   
   
@@ -61,6 +62,8 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
   
   
   ![image](https://user-images.githubusercontent.com/110831080/183954333-ea03b7e1-1932-49fe-a72e-4414442a450f.png)
+  
+  There is also the orginal prefab folder which houses the orginal teleportation pad prefab that I modifed to make this teleport system. https://assetstore.unity.com/packages/tools/custom-teleporter-pad-script-20098
 
   
   
