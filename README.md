@@ -70,7 +70,13 @@ Then under the video player component add the video url
 **Note the formating for the video url is in the Video Streaming section under Sources and Future Considerations**
 
 
-  The Video Render is placed in the second psv4 prefab under its Photo Gimbal componet. This used when video needs to be rendered instead of a photosphere. The video you want to play can then be attached to the video render. You cannot attach video directly to the psv4 asset. 
+  Drag the Photo Gimbal Mesh Renderer to the Renderer field in gthe video player componet. 
+  
+  
+![image](https://user-images.githubusercontent.com/110831080/183967288-3d978cb3-c0a9-417b-84d9-18a625a31c51.png)
+
+
+  This used when video needs to be rendered instead of a photosphere. You cannot attach video directly to the psv4 asset. 
   
 # Teleport System
   The Telepad is the main asset used for teleporting and can be found in the teleport system folder under Tour Prefabs.
