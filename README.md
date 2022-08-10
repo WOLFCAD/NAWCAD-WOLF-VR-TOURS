@@ -56,7 +56,19 @@ under Photo Gimbal find the Photo Creation Sphere Script and add your image to t
     - MainCamera prefab x2
     
 # Streaming Assets
-The Video Sphere is the main streaming asset used in playing video throughout the tour. To add a video to this prefab
+The Video Sphere is the main streaming asset used in playing video throughout the tour.This asset is found under the Prefab folder in the Photosphere folder. To add a video to this prefab go to Photo Gimbal
+
+![image](https://user-images.githubusercontent.com/110831080/183965353-76a9c492-2923-4d09-9432-eff61f1a6411.png)
+
+
+Then under the video player component add the video url
+
+
+![image](https://user-images.githubusercontent.com/110831080/183965688-42bebed9-f992-4d7d-9a3e-3f82ee924152.png)
+
+
+**Note the formating for the video url is in the Video Streaming section under Sources and Future Considerations**
+
 
   The Video Render is placed in the second psv4 prefab under its Photo Gimbal componet. This used when video needs to be rendered instead of a photosphere. The video you want to play can then be attached to the video render. You cannot attach video directly to the psv4 asset. 
   
@@ -90,6 +102,10 @@ The Video Sphere is the main streaming asset used in playing video throughout th
     - Render Streaming is a possiblity where we might not even need to stream video. Render Streaing allows a unity application to host its contents using a local web server and other applications can access that content by connecting the web server. This allows all the video data which is a least 50 Gb to be stored on one computer and can just be streamed to the other devices. You can learn more by visting https://github.com/Unity-Technologies/UnityRenderStreaming.
       - The only problem I found while using this is it works like a live stream. Where the app on the main machine were the web server is, can only stream what is happening on the main machine to the other connected users. Not where the other users can access the app itself.
   ## Hosting
-     There are two main hosting options that I have discovered which are free.
+  There are two main hosting options that I have discovered which are free.
       - Simmer.io: Simmer.io is a free web gl game hosting site which allows users to drap and drop there web gl projects and host them on there site https://simmer.io/
+      
+      -Github Pages Hosting: Github allows you to host code bases using github pages for free https://alexandreasen09.medium.com/hosting-a-unity-webgl-game-for-free-f69ec70bcb30
+      
+  ## Orentation Data and Working with Javascript
       -
