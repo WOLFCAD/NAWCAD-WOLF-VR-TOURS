@@ -54,6 +54,8 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
   or 
   
   a teleportation that transports them to a different scene.
+  
+  
   ![image](https://user-images.githubusercontent.com/110831080/183954333-ea03b7e1-1932-49fe-a72e-4414442a450f.png)
 
   
