@@ -23,7 +23,7 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
     - 
  **Note the type of url that needs to be put into the video play script will be explained in the sources and future considerations section under video streaming.**
 # My Scripts
-    A folder that contains scripts for the interactable elements used for a specific purpose.
+    A folder that contains scripts for the interactable elements.
     
 # PhotoSphere 
   A folder that contains assets and prefabs for creating  and forming photospheres
