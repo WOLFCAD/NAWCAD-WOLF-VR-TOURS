@@ -62,4 +62,5 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
     ### Render Streaming
     - Render Streaming is a possiblity where we might not even need to stream video. Render Streaing allows a unity application to host its contents using a local web server and other applications can access that content by connecting the web server. This allows all the video data which is a least 50 Gb to be stored on one computer and can just be streamed to the other devices. You can learn more by visting https://github.com/Unity-Technologies/UnityRenderStreaming.
       - The only problem I found while using this is it works like a live stream. Where the app on the main machine were the web server is, can only stream what is happening on the main machine to the other connected users. Not where the other users can access the app itself.
+  ## Hosting
       
