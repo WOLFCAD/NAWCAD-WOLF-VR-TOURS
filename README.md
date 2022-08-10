@@ -54,5 +54,9 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
   
 # Sources and Future Considerations
   ## Video Streaming
-  - The video streaming utility that I have utlized in this project is github pages. Github allows you to create a respository and upload a video or videos to the repository under 25 MB. Then this repository can be hosted as a web page and the meta data can be streamed from the repository. You can vist here for a full tutorial on how to use githu  pages https://simmer.io/articles/adding-video-to-unity-webgl/
+  - The video streaming utility that I have utlized in this project is github pages. Github allows you to create a respository and upload a video or videos to the repository under 25 MB. Then this repository can be hosted as a web page and the meta data can be streamed from the repository. You can vist here for a full tutorial on how to use github pages https://simmer.io/articles/adding-video-to-unity-webgl/
+  - Youtube API: The other method that can stream video is excute calls to  the Youtube API to get meta data for a specific video you want. The only problem with this is that unity has restricted calls to the youtube api. Luckly someone has found a soultion to this by first hosting a app that will send a call request to youtube api and then unity can call the metadata from that app.  The app can be hosted for free on Heroku https://id.heroku.com. 
+    - I have hosted an app that already does this that you can use https://nawcadwolf-labtour.herokuapp.com/. 
+    - To call meta data from youtube copy the watch?v=qZzhXHqXM-g part from the youtube link and then add it to the end of the apps url https://nawcadwolf-labtour.herokuapp.com/watch?v=qZzhXHqXM-g
+ - There is also a youtube player asset that I have found in the unity store, it is a paid asset, but from the preview it seems to work pretty well. it even has a photosphere 360 video demo as well https://assetstore.unity.com/packages/tools/video/youtube-video-player-youtube-api-29704#content
       
