@@ -19,8 +19,9 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
   - Tour Prefabs: This folder contains prefabs that are used for a specific purpose, such as video interactors or text interactors. Theses can be draged and droped into the scence and should work without to much set up.
     - Interactable Empty is a empty interactable area that makes areas or images    in the case of a photosphere interactable
     - Title Block is a UI(User Interface) that can act as a menu or title screen
-    - Video Interactor is a interactable area that prompts the user to learn more by playing a video that is in the url field of the video play script
-   
+    - Video Interactor is a interactable area that prompts the user to learn more by playing a video that is in the url field of the video play script. 
+    - 
+ **Note the type of url that needs to be put into the video play script will be explained in the sources and future considerations section under video streaming.
 # My Scripts
     A folder that contains scripts for the interactable elements used for a specific purpose.
     
@@ -53,3 +54,5 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
   
 # Sources and Future Considerations
   ## Video Streaming
+      - The video streaming utility that I have utlized in this project is github pages. Github allows you to create a respository and upload a video or videos to the repository under 25 MB. Then this repository can be hosted as a web page and the meta data can be streamed from the repository. You can vist here for a full tutorial on how to use github pages https://simmer.io/articles/adding-video-to-unity-webgl/
+      
