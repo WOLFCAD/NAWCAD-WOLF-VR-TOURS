@@ -109,9 +109,9 @@ Then under the video player component add the video url
       - The only problem I found while using this is it works like a live stream. Where the app on the main machine were the web server is, can only stream what is happening on the main machine to the other connected users. Not where the other users can access the app itself.
   ## Hosting
   There are two main hosting options that I have discovered which are free.
-      - Simmer.io: Simmer.io is a free web gl game hosting site which allows users to drap and drop there web gl projects and host them on there site https://simmer.io/
+   - Simmer.io: Simmer.io is a free web gl game hosting site which allows users to drap and drop there web gl projects and host them on there site https://simmer.io/
       
-      -Github Pages Hosting: Github allows you to host code bases using github pages for free https://alexandreasen09.medium.com/hosting-a-unity-webgl-game-for-free-f69ec70bcb30
+   - Github Pages Hosting: Github allows you to host code bases using github pages for free https://alexandreasen09.medium.com/hosting-a-unity-webgl-game-for-free-f69ec70bcb30
       
   ## Orentation Data and Working with Javascript
       -
