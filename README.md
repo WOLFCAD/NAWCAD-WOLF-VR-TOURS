@@ -54,5 +54,5 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
   
 # Sources and Future Considerations
   ## Video Streaming
-      - The video streaming utility that I have utlized in this project is github pages. Github allows you to create a respository and upload a video or videos to the repository under 25 MB. Then this repository can be hosted as a web page and the meta data can be streamed from the repository. You can vist here for a full tutorial on how to use github pages https://simmer.io/articles/adding-video-to-unity-webgl/
+  - The video streaming utility that I have utlized in this project is github pages. Github allows you to create a respository and upload a video or videos to the repository under 25 MB. Then this repository can be hosted as a web page and the meta data can be streamed from the repository. You can vist here for a full tutorial on how to use githu  pages https://simmer.io/articles/adding-video-to-unity-webgl/
       
