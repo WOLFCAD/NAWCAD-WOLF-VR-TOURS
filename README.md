@@ -21,7 +21,7 @@ The Gaze Interaction Prefabs Folder has the following  prefabs
     - Title Block is a UI(User Interface) that can act as a menu or title screen
     - Video Interactor is a interactable area that prompts the user to learn more by playing a video that is in the url field of the video play script. 
     - 
- ** Note the type of url that needs to be put into the video play script will be explained in the sources and future considerations section under video streaming.
+ **Note the type of url that needs to be put into the video play script will be explained in the sources and future considerations section under video streaming.**
 # My Scripts
     A folder that contains scripts for the interactable elements used for a specific purpose.
     
